@@ -1,0 +1,3 @@
+Este es el primer archivo creado en mi repositorio de GitHub.
+   Autor: David Rios
+   Fecha 06/02/2022
