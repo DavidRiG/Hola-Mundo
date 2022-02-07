@@ -1,4 +1,4 @@
 # Hola-Mundo
-Este es mi primer repositorio. :)
+Esta es la primera rama del repositorio. :)
     Autor: David Rios 
     Fecha: 06-02-2022
